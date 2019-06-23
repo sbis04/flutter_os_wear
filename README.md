@@ -8,6 +8,7 @@ The wear app has two modes:
 1) Normal Mode
 2) Ambient Mode (which is the battery saving mode)
 
+
 You can checkout some snaps of the app below.
 
 ## Screenshots
