@@ -105,8 +105,3 @@ After creating this project, I admit that Flutter is not optimized for WearOS de
 Though after facing a lot of difficulties I have finally done this project.
 
 If you like the project please give star ⭐️. 
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
