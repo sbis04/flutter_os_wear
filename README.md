@@ -18,7 +18,9 @@ You can checkout some snaps of the app below.
 
 ## App in Action
 
-
+<p align="left">
+  <img src="https://github.com/sbis04/flutter_os_wear/blob/master/screenshots/final_watch.gif">
+</p>
 
 ## Plugin
 
