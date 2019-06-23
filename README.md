@@ -5,7 +5,6 @@ This is an app for WearOS devices which is inspired from the Medium article writ
 In this app, I tried to optimize the [relax](https://github.com/erinmorrissey/relax) app created by Erin Morrissey (made as a Flutter Create Submission 2019), to run on WearOS devices.
 
 The wear app has two modes:
-
 1) Normal Mode
 2) Ambient Mode (which is the battery saving mode)
 
