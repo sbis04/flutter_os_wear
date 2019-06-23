@@ -4,7 +4,7 @@ First of all I want to state that it is not an OS, it is just an app.
 
 This is an app for WearOS devices which is inspired from the Medium article written by [Matt Sullivan](https://medium.com/@mjohnsullivan), ["Experimenting with Flutter on Wear OS"](https://medium.com/@mjohnsullivan/experimenting-with-flutter-on-wear-os-f789d843f2ef). This article really helped me to understand, how to manage the screen size of the app properly and inheriting it to different classes.
 
-In this app, I tried to optimize the [relax](https://github.com/erinmorrissey/relax) app created by Erin Morrissey (made as a Flutter Create Submission 2019), to run on WearOS devices.
+In this app, I tried to optimize the [relax](https://github.com/erinmorrissey/relax) app created by Erin Morrissey (made as a Flutter Create Submission 2019, which got nominated for Visual Beauty), to run on WearOS devices.
 
 The wear app has two modes:
 1) Normal Mode
@@ -97,6 +97,14 @@ class MainActivity: FlutterActivity(), AmbientMode.AmbientCallbackProvider {
   }
 }
 ```
+
+# Conclusion
+
+After creating this project, I admit that Flutter is not optimized for WearOS devices till now as many of the simple things are not working on WearOS like all material Icons which are included in Flutter are not displaying on WearOS devices, instead a Placeholder image is getting displayed. For this reason, I had to download the material Icons for the Material Design website and add it to assets.
+
+Though after facing a lot of difficulties I have finally done this project.
+
+If you like the project please give star ⭐️. 
 
 ## Getting Started
 
