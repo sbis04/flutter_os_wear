@@ -14,7 +14,9 @@ You can checkout some snaps of the app below.
 
 ## Screenshots
 
-
+<p align="left">
+  <img src="https://github.com/sbis04/flutter_os_wear/blob/master/screenshots/flt_1.png">
+</p>
 
 ## App in Action
 
