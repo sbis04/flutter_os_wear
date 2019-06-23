@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_os/screens/ambient_screen.dart';
+import 'package:flutter_os/screens/start_screen.dart';
 import 'package:wear/wear.dart';
-import 'package:wear_example/screens/ambient_screen.dart';
-import 'package:wear_example/screens/start_screen.dart';
 
 void main() => runApp(MyApp());
 

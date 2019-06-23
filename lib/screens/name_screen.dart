@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_os/screens/ambient_screen.dart';
+import 'package:flutter_os/screens/relax_menu.dart';
 import 'package:wear/wear.dart';
-import 'package:wear_example/screens/ambient_screen.dart';
-import 'package:wear_example/screens/relax_menu.dart';
 
 class NameScreen extends StatelessWidget {
   final screenHeight;

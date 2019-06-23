@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_os/screens/ambient_screen.dart';
+import 'package:flutter_os/screens/sound_screen.dart';
 import 'package:wear/wear.dart';
-import 'package:wear_example/screens/ambient_screen.dart';
-import 'package:wear_example/screens/sound_screen.dart';
 
 const img = 'assets/images/';
 List<String> screens = ['rain', 'forest', 'sunset', 'ocean'];

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_os/screens/name_screen.dart';
+import 'package:flutter_os/utils.dart';
 import 'package:wear/wear.dart';
-import 'package:wear_example/screens/name_screen.dart';
-import 'package:wear_example/utils.dart';
 
 class StartScreen extends StatelessWidget {
   @override

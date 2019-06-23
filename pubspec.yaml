@@ -1,4 +1,4 @@
-name: wear_example
+name: flutter_os
 description: Demonstrates how to use the wear plugin.
 
 dependencies:
