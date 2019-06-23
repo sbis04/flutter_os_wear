@@ -1,0 +1,24 @@
+name: wear_example
+description: Demonstrates how to use the wear plugin.
+
+dependencies:
+  audioplayers: ^0.7.8
+  wear: ^0.0.3
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  assets:
+    - assets/robot.gif
+    - assets/outline_arrow.png
+    - assets/pause_circle_filled.png
+    - assets/play_circle_filled.png
+    - assets/outline_arrow_back_white.png
+    - assets/audio/
+    - assets/images/
+    - assets/icons/
