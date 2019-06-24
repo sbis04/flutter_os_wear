@@ -1,10 +1,10 @@
-# Flutter OS (Android WearOS app)
+# Flutter OS (Android Wear OS app)
 
 First of all I want to state that it is not an OS, it is just an app.
 
-This is an app for WearOS devices which is inspired from the Medium article written by [Matt Sullivan](https://medium.com/@mjohnsullivan), ["Experimenting with Flutter on Wear OS"](https://medium.com/@mjohnsullivan/experimenting-with-flutter-on-wear-os-f789d843f2ef). This article really helped me to understand, how to manage the screen size of the app properly and inheriting it to different classes.
+This is an app for Wear OS devices which is inspired from the Medium article written by [Matt Sullivan](https://medium.com/@mjohnsullivan), ["Experimenting with Flutter on Wear OS"](https://medium.com/@mjohnsullivan/experimenting-with-flutter-on-wear-os-f789d843f2ef). This article really helped me to understand, how to manage the screen size of the app properly and inheriting it to different classes.
 
-In this app, I tried to optimize the [relax](https://github.com/erinmorrissey/relax) app created by Erin Morrissey (made as a Flutter Create Submission 2019, which got nominated for Visual Beauty), to run on WearOS devices.
+In this app, I tried to optimize the [relax](https://github.com/erinmorrissey/relax) app created by Erin Morrissey (made as a Flutter Create Submission 2019, which got nominated for Visual Beauty), to run on Wear OS devices.
 
 The wear app has two modes:
 1) Normal Mode
@@ -40,7 +40,7 @@ import 'package:wear/wear.dart';
 
 # Set Up (Important)
 
-Matt has already discussed, in his GitHub project of [flutter_wear_plugin](https://github.com/mjohnsullivan/flutter_wear_plugin), how to set up the project for Flutter WearOS apps. But, I faced a lot of difficulty while following the steps. So, I recommend that you clone my project or Matt's example project and then work on it, after deleting the UI files which you don't require, because in this way you do not need to set up the whole project which consumes a huge amount of time and you will face a lot of challenges.
+Matt has already discussed, in his GitHub project of [flutter_wear_plugin](https://github.com/mjohnsullivan/flutter_wear_plugin), how to set up the project for Flutter Wear OS apps. But, I faced a lot of difficulty while following the steps. So, I recommend that you clone my project or Matt's example project and then work on it, after deleting the UI files which you don't require, because in this way you do not need to set up the whole project which consumes a huge amount of time and you will face a lot of challenges.
 
 I am again stating the set up process below (not recommended):
 
@@ -104,7 +104,7 @@ class MainActivity: FlutterActivity(), AmbientMode.AmbientCallbackProvider {
 
 # Conclusion
 
-After creating this project, I admit that Flutter is not optimized for WearOS devices till now as many of the simple things are not working on WearOS like all material Icons which are included in Flutter are not displaying on WearOS devices, instead a Placeholder image is getting displayed. For this reason, I had to download the material Icons for the [Material Design website](https://material.io/tools/icons) and add it to assets.
+After creating this project, I admit that Flutter is not optimized for Wear OS devices till now as many of the simple things are not working on Wear OS like all material Icons which are included in Flutter are not displaying on Wear OS devices, instead a Placeholder image is getting displayed. For this reason, I had to download the material Icons for the [Material Design website](https://material.io/tools/icons) and add it to assets.
 
 Though after facing a lot of difficulties I have finally done this project.
 
