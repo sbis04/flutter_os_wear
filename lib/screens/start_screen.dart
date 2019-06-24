@@ -29,10 +29,7 @@ class StartScreen extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.start,
                 mainAxisSize: MainAxisSize.max,
                 children: <Widget>[
-                  Hero(
-                    tag: 'logo',
-                    child: FlutterLogo(size: 90),
-                  ),
+                  FlutterLogo(size: 90),
                   SizedBox(height: 20),
                   RaisedButton(
                     highlightColor: Colors.blue[900],
