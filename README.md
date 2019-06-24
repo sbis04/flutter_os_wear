@@ -29,7 +29,7 @@ You can checkout some snaps of the app below.
 The plugin used in this project is ["wear"](https://pub.dev/packages/wear).
 
 Add this to your package's pubspec.yaml file to use wear:
-```
+```yaml
 dependencies:
   wear: ^0.0.3
 ```
