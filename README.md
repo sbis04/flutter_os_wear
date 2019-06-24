@@ -14,18 +14,22 @@ You can checkout some snaps of the app below.
 
 ## Screenshots
 
-
+<p align="left">
+  <img src="https://github.com/sbis04/flutter_os_wear/blob/master/screenshots/flt_1.png">
+</p>
 
 ## App in Action
 
-
+<p align="left">
+  <img src="https://github.com/sbis04/flutter_os_wear/blob/master/screenshots/final_watch.gif">
+</p>
 
 ## Plugin
 
 The plugin used in this project is ["wear"](https://pub.dev/packages/wear).
 
 Add this to your package's pubspec.yaml file to use wear:
-```
+```yaml
 dependencies:
   wear: ^0.0.3
 ```
@@ -100,7 +104,7 @@ class MainActivity: FlutterActivity(), AmbientMode.AmbientCallbackProvider {
 
 # Conclusion
 
-After creating this project, I admit that Flutter is not optimized for WearOS devices till now as many of the simple things are not working on WearOS like all material Icons which are included in Flutter are not displaying on WearOS devices, instead a Placeholder image is getting displayed. For this reason, I had to download the material Icons for the Material Design website and add it to assets.
+After creating this project, I admit that Flutter is not optimized for WearOS devices till now as many of the simple things are not working on WearOS like all material Icons which are included in Flutter are not displaying on WearOS devices, instead a Placeholder image is getting displayed. For this reason, I had to download the material Icons for the [Material Design website](https://material.io/tools/icons) and add it to assets.
 
 Though after facing a lot of difficulties I have finally done this project.
 
