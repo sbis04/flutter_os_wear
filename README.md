@@ -4,7 +4,7 @@
   <img src="https://github.com/sbis04/flutter_os_wear/blob/master/screenshots/wear_cover.png">
 </p>
 
-**Checkout my Medium article ["Flutter: Building Wear OS app"](https://medium.com/flutter-community/flutter-building-wearos-app-fedf0f06d1b4).**
+### **Checkout my Medium article ["Flutter: Building Wear OS app"](https://medium.com/flutter-community/flutter-building-wearos-app-fedf0f06d1b4).**
 
 First of all I want to state that it is not an OS, it is just an app.
 
