@@ -1,5 +1,9 @@
 # Flutter OS (Android Wear OS app)
 
+<p align="center">
+  <img src="https://github.com/sbis04/flutter_os_wear/blob/master/screenshots/wear_cover.png">
+</p>
+
 First of all I want to state that it is not an OS, it is just an app.
 
 This is an app for Wear OS devices which is inspired from the Medium article written by [Matt Sullivan](https://medium.com/@mjohnsullivan), ["Experimenting with Flutter on Wear OS"](https://medium.com/@mjohnsullivan/experimenting-with-flutter-on-wear-os-f789d843f2ef). This article really helped me to understand, how to manage the screen size of the app properly and inheriting it to different classes.
